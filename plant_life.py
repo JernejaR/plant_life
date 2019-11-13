@@ -7,7 +7,7 @@ Created on Tue Nov 12 13:07:11 2019
 
 
 import pygame
-import sys
+#import sys
 import numpy as np
 from stem_multi import Stem, Stalks
 #from video import make_video
